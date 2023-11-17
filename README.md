@@ -2,7 +2,7 @@
 - 👀 I’m interested in public safety and quality control. 
 - 🌱 I’m currently learning payroll, management consulting and sales.  ...
 - 💞️ I’m looking to collaborate on film production. 
-- 📫 You can reach me at jamalvision.com. 
+- 📫 You can reach me at jamalvision.com.
 
 <!---
 Jamalvision/Jamalvision is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
